@@ -1,0 +1,44 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: max-age=31536000
+/gatsby-bootstrap/offline-plugin-app-shell-fallback/
+  Link: </gatsby-bootstrap/commons-f4440505f67bf5a50d26.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/app-e3e802412f981d7d9a23.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/component---src-layouts-index-js-5d8c09fe4757d891f1f8.js>; rel=preload; as=script
+/gatsby-bootstrap/hello-world/
+  Link: </gatsby-bootstrap/commons-f4440505f67bf5a50d26.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/app-e3e802412f981d7d9a23.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/path---hello-world-6f6e6f00bd525d62fe41.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/component---src-templates-blog-post-js-46ef56e717104ab98318.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/component---src-layouts-index-js-5d8c09fe4757d891f1f8.js>; rel=preload; as=script
+/gatsby-bootstrap/my-second-post/
+  Link: </gatsby-bootstrap/commons-f4440505f67bf5a50d26.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/app-e3e802412f981d7d9a23.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/path---my-second-post-12ddab7351ff27b0ebc6.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/component---src-templates-blog-post-js-46ef56e717104ab98318.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/component---src-layouts-index-js-5d8c09fe4757d891f1f8.js>; rel=preload; as=script
+/gatsby-bootstrap/hi-folks/
+  Link: </gatsby-bootstrap/commons-f4440505f67bf5a50d26.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/app-e3e802412f981d7d9a23.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/path---hi-folks-7a7a3a2eee826a0c6c42.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/component---src-templates-blog-post-js-46ef56e717104ab98318.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/component---src-layouts-index-js-5d8c09fe4757d891f1f8.js>; rel=preload; as=script
+/gatsby-bootstrap/
+  Link: </gatsby-bootstrap/commons-f4440505f67bf5a50d26.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/app-e3e802412f981d7d9a23.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/path---index-3669dc5264b61d9a504e.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/component---src-pages-index-js-4f4c73ba759645fb8114.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/component---src-layouts-index-js-5d8c09fe4757d891f1f8.js>; rel=preload; as=script
+/gatsby-bootstrap/profile/
+  Link: </gatsby-bootstrap/commons-f4440505f67bf5a50d26.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/app-e3e802412f981d7d9a23.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/path---profile-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/component---src-pages-profile-index-jsx-beb6003e6bad084e146c.js>; rel=preload; as=script
+  Link: </gatsby-bootstrap/component---src-layouts-index-js-5d8c09fe4757d891f1f8.js>; rel=preload; as=script
